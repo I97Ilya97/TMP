@@ -30,7 +30,7 @@ void print(std::string const & tx1, std::string const & tx2)
 	}
 }
 
-///////////////////////
+
 int main() 
 {
 
